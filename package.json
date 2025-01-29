@@ -1,6 +1,6 @@
 {
   "name": "webpack-replace-string-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Webpack loader to replace all string occurrences by another one",
   "author": "Thibaut SABOT",
   "license": "MIT",
