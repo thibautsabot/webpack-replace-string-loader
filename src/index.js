@@ -1,5 +1,5 @@
 import { validate } from 'schema-utils'
-import schema from './schema'
+import schema from './schema.js'
 
 const replaceAll = (content, matchingArray) => {
   let result = content

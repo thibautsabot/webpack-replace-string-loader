@@ -1,4 +1,4 @@
-import setup from './compiler'
+import setup from './compiler.js'
 
 it('should replace an occurrence of a string', async () => {
   const output = await setup({
