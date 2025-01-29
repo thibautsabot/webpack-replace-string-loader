@@ -2,7 +2,20 @@
   "name": "webpack-replace-string-loader",
   "version": "1.0.0",
   "description": "A simple Webpack loader to replace all string occurrences by another one",
+  "author": "Thibaut SABOT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thibautsabot/webpack-replace-string-loader.git"
+  },
   "main": "index.js",
+  "keywords": [
+    "webpack",
+    "loader",
+    "replace",
+    "string",
+    "replace-string"
+  ],
   "scripts": {
     "test": "jest"
   },
